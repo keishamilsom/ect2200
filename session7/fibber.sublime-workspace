@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"previous",
+				"previousPanel"
+			],
+			[
+				"get",
+				"getChallengeItemSelected"
+			],
+			[
+				"linked",
+				"linkedstudy"
+			],
+			[
+				"linke",
+				"linkedstudy"
+			],
+			[
+				"media",
+				"mediaobj"
+			],
+			[
+				"targetSprite",
+				"targetSpriteObj"
+			],
+			[
+				"messag",
+				"messageoptions"
+			],
+			[
+				"challe",
+				"challengeid"
+			],
+			[
+				"challeng",
+				"challengeContent"
+			],
+			[
+				"generate",
+				"generateUserIconCode"
+			],
+			[
+				"icon",
+				"iconindex"
+			],
+			[
+				"genera",
+				"generateReappraisalReframeHTML"
+			],
+			[
+				"gener",
+				"generateFocusOnBreathHTML"
+			],
+			[
+				"chan",
+				"changeCurrentStep"
+			],
+			[
+				"conte",
+				"contentArray"
+			],
+			[
+				"tart",
+				"targetContainer"
+			],
+			[
+				"link",
+				"linkedstudy"
+			],
+			[
+				"defaul",
+				"defaultHash"
+			],
+			[
+				"popul",
+				"populateLog"
+			],
+			[
+				"saveNew",
+				"saveNewCheckinToCommunityLog"
+			],
+			[
+				"getCh",
+				"getCheckinObj"
+			],
+			[
+				"missing",
+				"missingCheckinData"
+			],
+			[
+				"addToCh",
+				"addToCheckinObj"
+			],
+			[
+				"temp",
+				"tempCheckinObj"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"curren",
+				"currentLogObj"
+			],
+			[
+				"commuy",
+				"communitylog"
+			],
+			[
+				"save",
+				"saveNewCommunityLogMessage"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"noti",
+				"notificationSoundPath"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"load",
+				"loadConfig"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"callback",
+				"callbacks"
+			],
+			[
+				"momen",
+				"momentinactive"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"checkin",
+				"checkincount"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tap",
+				"tapcount"
+			],
+			[
+				"setupCheckin",
+				"setupCheckinNegThink"
+			],
+			[
+				"error",
+				"errorElement"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"interact-",
+				"interact-floataway-item"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"process",
+				"processNotificationSetupStartOfDay"
+			],
+			[
+				"option",
+				"optionalDegree"
+			],
+			[
+				"getUse",
+				"getUserDayStartAsMoment"
+			],
+			[
+				"is",
+				"isChallengeCompleted"
+			],
+			[
+				"popula",
+				"populateMessage"
+			],
+			[
+				"cha",
+				"challengeid"
+			],
+			[
+				"processNoti",
+				"processNotificationCancelAll"
+			],
+			[
+				"getChallengeEn",
+				"getChallengeCurrentEnrollmentChallengeTitle"
+			],
+			[
+				"getC",
+				"getChallengeCurrentEnrollmentChallengeTitle"
+			],
+			[
+				"processNo",
+				"processNotificationUpdateForEndOfDay"
+			],
+			[
+				"remain",
+				"remainingHours"
+			],
+			[
+				"setup",
+				"setupMain"
+			],
+			[
+				"dev",
+				"deviceready"
+			],
+			[
+				"pop",
+				"populateMessage"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"select",
+				"selectDisabledFeature"
+			],
+			[
+				"subheader",
+				"subheadercheckin"
+			],
+			[
+				"trigg",
+				"triggerMessage"
+			],
+			[
+				"proce",
+				"processChallengeComplete"
+			],
+			[
+				"processCh",
+				"processChallengeStart"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"processChalle",
+				"processChallengeStop"
+			],
+			[
+				"check",
+				"checkinobj"
+			],
+			[
+				"getCH",
+				"getChallengeCurrentEnrollmentObj"
+			],
+			[
+				"tr",
+				"triggerMessage"
+			],
+			[
+				"proces",
+				"processStartCheckin"
+			],
+			[
+				"user",
+				"userlist"
+			],
+			[
+				"chal",
+				"challengeenrollmentobj"
+			],
+			[
+				"c",
+				"challengeenrollmentobj"
+			],
+			[
+				"current",
+				"challengeCurrentEnrollmentObj"
+			],
+			[
+				"challen",
+				"challengeobj"
+			],
+			[
+				"enro",
+				"enrolledinchallenge"
+			],
+			[
+				"main",
+				"mainsetup"
+			],
+			[
+				"slide",
+				"slideUpBigIn"
+			],
+			[
+				"v",
+				"velocity"
+			],
+			[
+				"tetx",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"border-radi",
+				"border-radius"
+			],
+			[
+				"ac",
+				"activityid"
+			],
+			[
+				"curre",
+				"currentlength"
+			],
+			[
+				"processAc",
+				"processActivityReplace"
+			],
+			[
+				"enrol",
+				"enrolledworkoutobj"
+			],
+			[
+				"enr",
+				"enrolledactivityobj"
+			],
+			[
+				"enrolled",
+				"enrolledactivityobj"
+			],
+			[
+				"getRegis",
+				"getRegisteredActivities"
+			],
+			[
+				"trigger",
+				"triggerdate"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-radius",
+				"border-bottom-left-radius"
+			],
+			[
+				"hide",
+				"hideMask"
+			],
+			[
+				"public",
+				"publicstart-page"
+			],
+			[
+				"processSign",
+				"processSignUpCurrentStep"
+			],
+			[
+				"s",
+				"signupdata"
+			],
+			[
+				"enrolledac",
+				"enrolledactivityobj"
+			],
+			[
+				"acti",
+				"activity-enrollment"
+			],
+			[
+				"activity",
+				"activityenrollment"
+			],
+			[
+				"workout",
+				"workoutenrollment"
+			],
+			[
+				"response",
+				"responsedata"
+			],
+			[
+				"emotio",
+				"emotionvalence"
+			],
+			[
+				"enrolledacti",
+				"enrolledactivityid"
+			],
+			[
+				"enrolledAc",
+				"enrolledactivityid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/fibber.js",
+			"settings":
+			{
+				"buffer_size": 2545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/fibber.css",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/web/ect2200/index.html",
+		"/web/mamp/index.html",
+		"/web/seekchange/sima/platforms/ios/www/cordova_plugins.js",
+		"/web/seekchange/sima/online_server_setup/js/ios/cordova_plugins.js",
+		"/web/seekchange/sima/www/build/af.ui.base.css",
+		"/web/seekchange/sima/www/src/af.ui.js",
+		"/web/seekchange/sima/config.xml",
+		"/web/seekchange/sima/www/build/sc.ui.css",
+		"/web/seekchange/sima/www/src/sc.externalwindow.js",
+		"/web/seekchange/sima/app.mf",
+		"/web/seekchange/sima/config.xml.bak",
+		"/web/seekchange/sima/bash.rtf",
+		"/web/seekchange/sima/www/scrap.html",
+		"/web/seekchange/sima/www/src/sc.tests.js",
+		"/web/seekchange/sima/platforms/ios/SIMA/config.xml",
+		"/web/seekchange/sima/readme-dev.txt",
+		"/Volumes/ExtraMunk/Dropbox/Research/Research Studies/MiMente/Project Mgmt/Expense Receipts/Invoice_03/AmazonGiftCards_004.html",
+		"/web/seekchange/sima/www/src/sc.content.js",
+		"/web/seekchange/sima/www/src/sc.view.js.backup",
+		"/web/seekchange/sima/www/index.html.bak",
+		"/web/seekchange/sima/www/src/sc.view.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotificationOptions.h",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotificationOptions.m",
+		"/web/seekchange/sima/dev_scratchspace/cordova.ios.js",
+		"/web/seekchange/sima/www/src/sc.controller.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification-ios9-fix/src/ios/APPLocalNotificationOptions.m",
+		"/web/seekchange/sima/www/js-remote/android/cordova-android.js",
+		"/web/seekchange/sima/www/js-remote/android/cordova.android.js",
+		"/web/seekchange/sima/platforms/android/AndroidManifest.xml",
+		"/web/seekchange/sima/www/js-remote/cordova.ios.js",
+		"/web/seekchange/sima/www/cordova_plugins.js",
+		"/web/seekchange/sima/www/js_remote/cordova.ios.js",
+		"/web/seekchange/sima/www/index.html",
+		"/web/seekchange/sima/.htaccess",
+		"/web/seekchange/sima/www/src/sc.model.js",
+		"/web/seekchange/sima/platforms/ios/SIMA/SIMA-Info.plist",
+		"/web/seekchange/sima/www/js/cordova.ios.js",
+		"/web/seekchange/sima/index.html",
+		"/web/seekchange/sima/www/js/ios/cordova_plugins.js",
+		"/web/seekchange/sima/www/js/android/cordova_plugins.js",
+		"/web/seekchange/sima/www/autoupdate.js",
+		"/web/seekchange/sima/www/manifest.json",
+		"/web/seekchange/sima/www/src/bootstrap.js",
+		"/web/seekchange/sima/www/src/autoupdate.js",
+		"/web/seekchange/sima/www/src/af.touchEvents.js",
+		"/web/seekchange/sima/www/src/af.touchEvents.js_intelf_original.js",
+		"/web/seekchange/sima/www/src/zepto.min.js",
+		"/web/seekchange/sima/platforms/android/build.gradle",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/plugin.xml",
+		"/web/seekchange/sima/platforms/android/res/xml/config.xml",
+		"/web/seekchange/sima/platforms/android/res/values/strings.xml",
+		"/web/seekchange/sima/platforms/android/build/intermediates/res/debug/xml/config.xml",
+		"/web/seekchange/simadash/index.html",
+		"/web/seekchange/sima/www/kitchen.html",
+		"/web/seekchange/sima/platforms/ios/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification-util.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotification.m",
+		"/web/seekchange/sima/platforms/ios/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification-util.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.common.registerusernotificationsettings/src/ios/AppDelegate+APPRegisterUserNotificationSettings.m",
+		"/web/seekchange/sima/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsEngine.java",
+		"/web/seekchange/sima/www/build/grid.css",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification-core.js",
+		"/web/seekchange/sima/plugins/ios.json",
+		"/web/seekchange/sima/platforms/ios/SIMA/Plugins/de.appplant.cordova.plugin.local-notification/APPLocalNotification.m",
+		"/web/seekchange/sima/plugins/de.appplant.cordova.common.registerusernotificationsettings/src/ios/AppDelegate+APPRegisterUserNotificationSettings.h",
+		"/web/seekchange/sima/www/src/underscore-min.js",
+		"/web/seekchange/sima/www/src/af.shim.js",
+		"/web/seekchange/sima/www/src/af.grower.js",
+		"/web/seekchange/sima/www/src/af.animation.js",
+		"/web/seekchange/sima/www/build/icons.css",
+		"/web/ect2220/habitnator/index.html",
+		"/Users/ralph/Downloads/appframework-master/index.html",
+		"/web/nyuprototype/styles.css",
+		"/web/seekchange/sima/www/build/af.ui.css",
+		"/web/nyuprototype/index.html",
+		"/web/seekchange/sima/www/src/af.swipereveal.js",
+		"/web/nicolesite/signup.html",
+		"/web/seekchange/sima/www/package.json",
+		"/web/seekchange/sima/www/animgenerator/anims.json",
+		"/web/seekchange/sima/platforms/ios/SIMA/Classes/MainViewController.xib",
+		"/web/seekchange/sima/www/tos.html",
+		"/web/seekchange/SeekChangeApp/www/content/tos.html",
+		"/web/seekchange/SeekChangeApp/www/content/privacy.html",
+		"/web/seekchange/sima/www/privacy.html",
+		"/web/seekchange/sima/www/build/sss.css",
+		"/Users/ralph/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/web/seekchange/sima/src/sc.app.js",
+		"/web/angular-phonecat/app/index.html",
+		"/web/seekchange/website/scratchpad.html",
+		"/web/seekchange/website/tos.html",
+		"/web/seekchange/website/privacy.html",
+		"/web/seekchange/website/research/consent.html",
+		"/web/seekchange/website/research/terms.html",
+		"/web/seekchange/website/css/seekchange.css",
+		"/web/seekchange/website/js/seekchange.js",
+		"/web/seekchange/website/research/index.html",
+		"/web/seekchange/website/research/emoawareness-end.html",
+		"/web/seekchange/website/research/emoawareness-start.html",
+		"/web/seekchange/website/index.html",
+		"/web/seekchange/website/research/emoawareness-signup.html",
+		"/web/seekchange/dashboard/www/css/afui.custom.css",
+		"/web/seekchange/dashboard/www/js/model.js",
+		"/web/seekchange/dashboard/www/js/controller.js",
+		"/web/seekchange/dashboard/www/index.html",
+		"/web/seekchange/dashboard/www/css/index.css",
+		"/web/seekchange/dashboard/www/css/dashboard.css",
+		"/web/seekchange/seekchange_v2.1/www/css/afui.custom.css",
+		"/web/seekchange/seekchange_v2.1/www/js/jquery.knob.js",
+		"/web/seekchange/seekchange_v2.1/platforms/android/src/com/plugin/gcm/GCMIntentService.java",
+		"/web/seekchange/seekchange_v2.1/platforms/android/AndroidManifest.xml",
+		"/web/seekchange/seekchange_v2.1/www/activities/moodtracker/checkin.html",
+		"/web/seekchange/seekchange_v2.1/www/css/index.css",
+		"/web/seekchange/seekchange_v2.1/www/js/dara.js",
+		"/web/seekchange/seekchange_v2.1/www/config.xml",
+		"/web/seekchange/seekchange_v2.1/www/ui/appframework.ui.js",
+		"/web/seekchange/seekchange_v2.1/www/css/icons.css",
+		"/web/seekchange/seekchange_v2.1/www/js/index.js",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/src/android/com/plugin/gcm/GCMIntentService.java",
+		"/web/seekchange/seekchange_v2.1/www/icon.png",
+		"/web/seekchange/seekchange_v2.1/www/js/PushNotification.js",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/src/android/com/plugin/gcm/PushPlugin.java",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/src/android/com/plugin/gcm/PushHandlerActivity.java",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/plugin.xml",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/src/android/com/plugin/gcm/CordovaGCMBroadcastReceiver.java",
+		"/web/seekchange/seekchange_v2.1/www/js/kinvey-phonegap-1.1.3.min.js",
+		"/web/seekchange/seekchange_v2.1/www/activities/customintention/checkin.html",
+		"/web/seekchange/seekchange_v2.1/plugins/com.phonegap.plugins.PushPlugin/Example/server/pushGCM.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/web/seekchange/seekchange_v2.1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"view.challenge.intro",
+			"VIEW.SIMA",
+			"participateResearch",
+			"processProfileEdit",
+			"participateResearch",
+			"location.hash",
+			"slide",
+			"view.go",
+			"view.go: ",
+			"profile-edit",
+			"profile",
+			"processProfile",
+			"Profile",
+			"populateRequireProfileCompletion",
+			"linkedstudy",
+			"model.challengeItemSelected",
+			"model.get",
+			"processShowInstructions",
+			"instructions",
+			"notificationSetup =",
+			"notifications",
+			"processNotificationSetupStartOfDay =",
+			"processNotificationSetupStartOfDay",
+			"challenge-step-sprite",
+			"generateDoneHTML",
+			".png",
+			"generateDoneHTML",
+			"alert(",
+			"generateDoneHTML",
+			"view.you.populateProfileLinkedStudy",
+			"participateResearch",
+			"saveExistingUserData",
+			"processProfileEdit",
+			"generateDoneHTML",
+			"donehtml",
+			"goHome",
+			"app.goHome",
+			"goHome",
+			"offline-page",
+			"button",
+			"DATASETTINGS",
+			"mediaurl",
+			"window.open",
+			"duration",
+			"mediaurl",
+			"generateAudioMeditationHTML",
+			"mediaurl",
+			"setupTapAndHold",
+			"generateDynamicContent",
+			"negthink",
+			"getChallengeCurrentEnrollmentChallengeObj",
+			"getChallengeEnrollmentDirectiveProperty",
+			"getChallengeEnrollmentObj",
+			"firstCheckin",
+			"challengeItemSelected",
+			"populateChallengeSplash",
+			"processChallengeStart",
+			"saveNewChallengeEnrollment",
+			"getChallengeItemSelected",
+			"populateRequireProfileCompletion",
+			"loadChallengesData",
+			"populateViewChallenges",
+			"populateViewChallenges = ",
+			"populateViewChallenges",
+			"viewChallenges",
+			"processNotificationSetup",
+			"getChallengeEndOfDayCheckinPrompt",
+			"processNotificationSetup",
+			"saveNewChallengeEnrollment",
+			"challengeCompleteImmediate",
+			"endOfDayCheckinNotification",
+			"getRandomNumber",
+			"getChallengeReminderPrompt",
+			"getChallengeReminderPromp",
+			"isUserAccountCompleted",
+			"isAccountCompleted",
+			"linkedstudy",
+			"getChallengeEndOfDayCheckinPrompt",
+			"challengeCompleteImmediate",
+			"getChallengeCheckinPrompt",
+			"processNotificationSetup",
+			"getChallengeCheckinPrompt",
+			"getUserDayEndAsMoment",
+			"notificationSetupStartOFDay",
+			"expiration",
+			"isChallengeStartingLate = ",
+			"isChallengeStartingLate",
+			"challengeLate",
+			"firstCheckin",
+			"directive",
+			"generateUserIconCode",
+			"iconindex",
+			"saveNewCheckinToCommunityLog",
+			"communitylog-message",
+			"profile",
+			"populateRequireProfileCompletion",
+			"profile",
+			"setupCheckinGratitude",
+			"setupCheckinNegThink",
+			"generateDynamicContent",
+			"submitCheckin",
+			"onNextStep",
+			"onNextStep =",
+			"onNextStep",
+			"getCheckinObj",
+			"#challenge",
+			"setupCheckinEnvy",
+			"populateCheckinForEnvy",
+			"processSubmitCheckin",
+			"saveNewCheckin",
+			"simChallengeStart",
+			"saveNewToYouLog",
+			"saveExistingChallengeEnrollmentStatus",
+			"processNotificationClick",
+			"loadCurrentChallengeEnrollmentData",
+			"expired",
+			"populateChallengeComplete = ",
+			"populateChallengeComplete",
+			"setupCheckinGratitude",
+			"isEnrolledInChallenge",
+			"populateCheckinForGratitude",
+			"processNotificationScheduled",
+			"processSubmitCheckin",
+			"isEnrolledInChallenge = ",
+			"isEnrolledInChallenge",
+			"populateCom",
+			"){\n",
+			"@property(readwrite, assign) NSDictionary* dict;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"simChallengeComplete",
+			"simChallengeStop",
+			"simChallengeStart",
+			"simNotificationLogicInstance",
+			"\"",
+			"view._height",
+			"view.triggerMessage",
+			"view.intro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3473,
+								3473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/fibber.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build/fibber.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fibber.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"https",
+				"platforms/android/CordovaLib/src/com/squareup/okhttp/internal/http/HttpsEngine.java"
+			],
+			[
+				"",
+				".idea/seekchange_v2.1.iml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

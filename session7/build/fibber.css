@@ -1,0 +1,222 @@
+/*
+FIBBER 
+custom css file
+
+include in the index.html in the <head> using the following code:
+   <link rel="stylesheet" type="text/css" href="build/fibber.css" />
+*/
+
+#splashscreen{
+	background-color: #000000 !important;
+}
+
+#instructions{
+	text-align: center;
+}
+
+body .afPopup {
+	width: 70%;
+    padding: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 10px solid #111111
+}
+
+#mask{
+	opacity: .8 !important;
+}
+
+.afPopup > HEADER {
+    font-size: 24px;
+    color: #ffcc00;
+}
+.afPopup > DIV {
+    font-size: 18px;
+}
+
+.panel {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.button{
+	border-radius: 5px;
+    background-color: #ff7f50 !important;
+    color: #000000 !important;
+    border: 0px !important;
+}
+
+.card{
+	box-shadow: 0 1px 4px #000000;
+}
+
+.menu-btn{
+	background-color: #333333 !important;
+    color: #000000 !important;
+    border-radius: 0px;
+    float: left;
+}
+
+.game-btn{
+	margin: 1px;
+    padding: 10px 5px 10px 5px;
+    width: 80px;
+    color: #ffffff !important;
+    font-size: 18px
+}
+.fib-btn{
+	background-color: rgba(255, 96, 0, 0.54) !important;
+    font-weight: 300;
+}
+.truth-btn{
+	background-color: rgba(74, 150, 37, 0.6) !important;
+    font-weight: 300;
+}
+
+#gameheader{
+	border-bottom: 1px solid #222222 !important;
+	margin-bottom: 5px;
+	text-align: center;
+}
+#gametitle{
+	font-size: 20px;
+    color: #563211;
+}
+.gametitle-splash{
+	font-size: 50px;
+    color: coral;
+    font-weight: 200;
+}
+.gamedesc-splash{
+    font-size: 20px;
+    font-weight: 100;
+    color: #eeeeee;
+    margin-bottom: 15px;
+}
+.lives-count-box{
+	padding: 2px 12px 1px 12px;
+    border: 1px solid #1f1e1e;
+    display: inline-block;
+}
+
+.col-char{
+	width: 25%;
+	text-align: center;
+    padding: 0px;
+    float: left;
+}
+
+.col-statement{
+    width: 50%;
+    text-align: center;
+    padding: 0px;
+    border: 1px solid #ffffff;
+    float: left;
+}
+.char-name{
+	font-size: 23px;
+    color: #ffffff;
+    margin-bottom: 5px;
+    font-weight: 100;
+}
+.char-draw{
+	border: 2px solid #ffffff;
+    background: #ffffff;
+    border-radius: 100px;
+    width: 70%;
+}
+#statement-text{
+
+}
+
+#statement-text p {
+    font-size: 20px !important;
+    line-height: normal;
+    font-weight: 200;
+    color: white;
+}
+
+#statement-context{
+    margin-top: 15px;
+    color: #696969;
+}
+.statement-date{
+	color: #484848;
+	font-size: smaller;
+}
+
+#counter-player{
+    position: absolute;
+    bottom: 0px;
+    width: 150px;
+    /* margin-left: -60px; */
+    left: 45%;
+    text-align: center
+}
+
+
+.bubble-left 
+{
+position: relative;
+padding: 10px;
+background: #000000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.bubble-left:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 11px 18px 11px 0;
+border-color: transparent #ffffff;
+display: block;
+width: 0;
+z-index: 1;
+margin-top: -11px;
+left: -18px;
+top: 30%;
+}
+
+.bubble-right 
+{
+position: relative;
+padding: 10px;
+background: #000000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.bubble-right:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 11px 0 11px 18px;
+border-color: transparent #ffffff;
+display: block;
+width: 0;
+z-index: 1;
+margin-top: -11px;
+right: -18px;
+top: 30%;
+}
+
+.live-item{
+	width: 10px;
+    height: 10px;
+    background-color: #ffcc00;
+    display: inline-block;
+    margin: 1px;
+}
+.live-item-removed{
+	width: 10px;
+    height: 10px;
+    background-color: #000000;
+    display: inline-block;
+    margin: 1px;
+    border: 1px solid #a7950e;
+}

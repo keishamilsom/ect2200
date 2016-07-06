@@ -1,0 +1,697 @@
+[
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/16/donald-trump/trump-mostly-correct-about-sharia-law-support-afgh/", 
+        "target": [], 
+        "statement_date": "2016-06-13", 
+        "statement_context": "a speech responding to the Orlando shooting", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Trump mostly correct about Sharia law support in Afghanistan", 
+        "statement": "<p>&quot;According to Pew Research, 99 percent of the people in Afghanistan support oppressive Sharia law.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Right number, but Sharia law not uniform", 
+        "ruling_date": "2016-06-16 10:00:00", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "immigration", 
+                "subject": "Immigration"
+            }, 
+            {
+                "subject_slug": "islam", 
+                "subject": "Islam"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/15/donald-trump/donald-trump-suggests-barack-obama-supported-isis-/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }, 
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Barack", 
+                "last_name": "Obama", 
+                "name_slug": "barack-obama", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-15", 
+        "statement_context": "a Facebook post", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump suggests Barack Obama supported ISIS, but that's a conspiracy theory", 
+        "statement": "<p>&quot;The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "pants-fire", 
+            "ruling": "Pants on Fire!", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+        }, 
+        "ruling_link_text": "U.S. has always opposed ISIS and its predecessors", 
+        "ruling_date": "2016-06-15 17:48:18", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "military", 
+                "subject": "Military"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/15/donald-trump/donald-trump-suggests-barack-obama-supported-isis-/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }, 
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Barack", 
+                "last_name": "Obama", 
+                "name_slug": "barack-obama", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-15", 
+        "statement_context": "a Facebook post", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump suggests Barack Obama supported ISIS, but that's a conspiracy theory", 
+        "statement": "<p>&quot;The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "pants-fire", 
+            "ruling": "Pants on Fire!", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+        }, 
+        "ruling_link_text": "U.S. has always opposed ISIS and its predecessors", 
+        "ruling_date": "2016-06-15 17:48:18", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "military", 
+                "subject": "Military"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/13/donald-trump/donald-trump-says-hillary-clinton-wants-let-500-pe/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-13", 
+        "statement_context": "a speech", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump says Hillary Clinton wants to let 500 percent more Syrians into the U.S.", 
+        "statement": "<p>Says Hillary Clinton &quot;plans to massively increase admissions (of Middle East refugees) &hellip; including a 500 percent increase in Syrian refugees coming into our country.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "It's 550 percent, with screening", 
+        "ruling_date": "2016-06-13 17:55:19", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "families", 
+                "subject": "Families"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "homeland-security", 
+                "subject": "Homeland Security"
+            }, 
+            {
+                "subject_slug": "human-rights", 
+                "subject": "Human Rights"
+            }, 
+            {
+                "subject_slug": "immigration", 
+                "subject": "Immigration"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/13/donald-trump/wrong-donald-trump-says-theres-no-system-vet-refug/", 
+        "target": [], 
+        "statement_date": "2016-06-13", 
+        "statement_context": "a speech on terrorism and immigration", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Wrong: Donald Trump says there's 'no system to vet' refugees", 
+        "statement": "<p>There is &quot;no system to vet&quot; refugees from the Middle East.</p>\r\n\r\n<div>&nbsp;</div>\r\n", 
+        "ruling": {
+            "ruling_slug": "false", 
+            "ruling": "False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+        }, 
+        "ruling_link_text": "System has existed since 1980", 
+        "ruling_date": "2016-06-13 17:04:01", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "immigration", 
+                "subject": "Immigration"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/13/donald-trump/donald-trump-correct-us-gives-100000-green-cards-y/", 
+        "target": [], 
+        "statement_date": "2016-06-12", 
+        "statement_context": "a statement after a terrorist attack in Orlando", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump correct that U.S. gives 100,000 green cards a year to migrants from Middle East", 
+        "statement": "<p>&quot;We admit more than 100,000 lifetime migrants from the Middle East each year.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Correct as long as you define \"Middle East\" generously", 
+        "ruling_date": "2016-06-13 15:31:20", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "immigration", 
+                "subject": "Immigration"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/09/donald-trump/donald-trump-said-crime-rising-its-not-and-hasnt-b/", 
+        "target": [], 
+        "statement_date": "2016-06-07", 
+        "statement_context": "a speech after several primaries concluded", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump said, 'Crime is rising.' It's not (and hasn't been for decades)", 
+        "statement": "<p>&quot;Crime is rising.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "pants-fire", 
+            "ruling": "Pants on Fire!", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+        }, 
+        "ruling_link_text": "It's not", 
+        "ruling_date": "2016-06-09 11:31:02", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "crime", 
+                "subject": "Crime"
+            }, 
+            {
+                "subject_slug": "criminal-justice", 
+                "subject": "Criminal Justice"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/07/donald-trump/trump-wrongly-casts-california-lawyers-group-stron/", 
+        "target": [], 
+        "statement_date": "2016-06-05", 
+        "statement_context": "an interview on CBS News' \"Face the Nation\"", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Trump wrongly casts California lawyers group as strongly pro-Mexican", 
+        "statement": "<p>Says Judge Gonzalo Curiel &quot;is a member of a club or society, very strongly pro-Mexican.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n", 
+        "ruling": {
+            "ruling_slug": "barely-true", 
+            "ruling": "Mostly False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+        }, 
+        "ruling_link_text": "Actually, your garden variety lawyers group", 
+        "ruling_date": "2016-06-07 13:14:57", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "legal-issues", 
+                "subject": "Legal Issues"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/06/hillary-clinton/shot-donald-trump-hillary-clinton-correct-about-ta/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "In shot at Donald Trump, Hillary Clinton is correct about tariffs' role in Great Depression", 
+        "statement": "<p>&quot;A trade war is something very different (than curbing new trade agreements). We went down that road in the 1930s. It made the Great Depression longer and more painful.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "true", 
+            "ruling": "True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+        }, 
+        "ruling_link_text": "Even Ferris Bueller would agree this is right", 
+        "ruling_date": "2016-06-06 17:54:47", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "economy", 
+                "subject": "Economy"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "history", 
+                "subject": "History"
+            }, 
+            {
+                "subject_slug": "trade", 
+                "subject": "Trade"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/hillary-clinton-says-donald-trump-cited-miss-unive/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech ", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton says Donald Trump cited Miss Universe pageant as evidence of foreign policy chops", 
+        "statement": "<p>Says Donald Trump &quot;says he has foreign policy experience because he ran the Miss Universe pageant in Russia.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "half-true", 
+            "ruling": "Half-True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+        }, 
+        "ruling_link_text": "At least as evidence of experience with Russia", 
+        "ruling_date": "2016-06-03 14:20:56", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/yes-donald-trump-did-call-climate-change-chinese-h/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech ", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Yes, Donald Trump did call climate change a Chinese hoax", 
+        "statement": "<p>Says &quot;Donald Trump says climate change is a hoax invented by the Chinese.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Later called it a 'joke,' but has used 'hoax' often", 
+        "ruling_date": "2016-06-03 12:00:53", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "climate-change", 
+                "subject": "Climate Change"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/02/donald-trump/donald-trump-wrong-accusing-hillary-clinton-lying-/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-01", 
+        "statement_context": "a rally in Sacramento, Calif.", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump wrong in accusing Hillary Clinton of lying about his views on a nuclear-armed Japan", 
+        "statement": "<p>Says Hillary Clinton has spoken &quot;such lies about my foreign policy. They said I want Japan to &hellip; get nuclear weapons. Give me a break.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "barely-true", 
+            "ruling": "Mostly False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+        }, 
+        "ruling_link_text": "Nearly there on nukes", 
+        "ruling_date": "2016-06-02 14:39:21", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "nuclear", 
+                "subject": "Nuclear"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/01/donald-trump/donald-trump-thousands-veterans-die-waiting-treatm/", 
+        "target": [], 
+        "statement_date": "2016-05-31", 
+        "statement_context": "a news conference", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump: Thousands of veterans die waiting for treatment from the VA", 
+        "statement": "<p>&quot;We&#39;re losing thousands of (veterans) waiting on line&quot; because they can&#39;t get speedy health care from the Veterans Administration.</p>\r\n\r\n<div>&nbsp;</div>\r\n", 
+        "ruling": {
+            "ruling_slug": "half-true", 
+            "ruling": "Half-True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+        }, 
+        "ruling_link_text": "Scaled-back claim still lacks good data", 
+        "ruling_date": "2016-06-01 16:27:10", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "health-care", 
+                "subject": "Health Care"
+            }, 
+            {
+                "subject_slug": "veterans", 
+                "subject": "Veterans"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/31/donald-trump/donald-trump-says-he-wanted-keep-veterans-fundrais/", 
+        "target": [], 
+        "statement_date": "2016-05-31", 
+        "statement_context": "a press conference in New York ", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump says he wanted to keep veterans fundraising 'quiet,' but he touted it instead", 
+        "statement": "<p>&quot;I wanted to keep it private, because I don&#39;t think it&#39;s anybody&#39;s business if I want to send money to the vets.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "pants-fire", 
+            "ruling": "Pants on Fire!", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+        }, 
+        "ruling_link_text": "He could have kept quiet, but didn't", 
+        "ruling_date": "2016-05-31 17:41:12", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "veterans", 
+                "subject": "Veterans"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/31/donald-trump/trump-exaggerates-wind-turbine-eagle-deaths/", 
+        "target": [], 
+        "statement_date": "2016-05-26", 
+        "statement_context": "a speech on energy policy", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Trump inflates wind turbine eagle deaths", 
+        "statement": "<p>In California, &quot;the windmills are killing hundreds and hundreds of eagles.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n", 
+        "ruling": {
+            "ruling_slug": "barely-true", 
+            "ruling": "Mostly False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+        }, 
+        "ruling_link_text": "Overkill", 
+        "ruling_date": "2016-05-31 08:00:00", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "energy", 
+                "subject": "Energy"
+            }, 
+            {
+                "subject_slug": "environment", 
+                "subject": "Environment"
+            }
+        ]
+    }
+]

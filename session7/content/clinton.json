@@ -1,0 +1,813 @@
+[
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/15/donald-trump/donald-trump-suggests-barack-obama-supported-isis-/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }, 
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Barack", 
+                "last_name": "Obama", 
+                "name_slug": "barack-obama", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-15", 
+        "statement_context": "a Facebook post", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump suggests Barack Obama supported ISIS, but that's a conspiracy theory", 
+        "statement": "<p>&quot;The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "pants-fire", 
+            "ruling": "Pants on Fire!", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+        }, 
+        "ruling_link_text": "U.S. has always opposed ISIS and its predecessors", 
+        "ruling_date": "2016-06-15 17:48:18", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "military", 
+                "subject": "Military"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/14/hillary-clinton/hillary-clinton-says-anti-muslim-hate-crimes-tripl/", 
+        "target": [], 
+        "statement_date": "2016-06-13", 
+        "statement_context": "a speech after a terrorist attack in Orlando", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton says anti-Muslim hate crimes tripled after Paris, San Bernardino", 
+        "statement": "<p>&quot;Hate crimes against American Muslims and mosques have tripled after Paris and San Bernardino.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Incidents spiked; unclear for how long", 
+        "ruling_date": "2016-06-14 13:37:23", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "crime", 
+                "subject": "Crime"
+            }, 
+            {
+                "subject_slug": "diversity", 
+                "subject": "Diversity"
+            }, 
+            {
+                "subject_slug": "homeland-security", 
+                "subject": "Homeland Security"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/13/donald-trump/donald-trump-says-hillary-clinton-wants-let-500-pe/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-13", 
+        "statement_context": "a speech", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump says Hillary Clinton wants to let 500 percent more Syrians into the U.S.", 
+        "statement": "<p>Says Hillary Clinton &quot;plans to massively increase admissions (of Middle East refugees) &hellip; including a 500 percent increase in Syrian refugees coming into our country.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "It's 550 percent, with screening", 
+        "ruling_date": "2016-06-13 17:55:19", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "families", 
+                "subject": "Families"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "homeland-security", 
+                "subject": "Homeland Security"
+            }, 
+            {
+                "subject_slug": "human-rights", 
+                "subject": "Human Rights"
+            }, 
+            {
+                "subject_slug": "immigration", 
+                "subject": "Immigration"
+            }, 
+            {
+                "subject_slug": "terrorism", 
+                "subject": "Terrorism"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/06/hillary-clinton/shot-donald-trump-hillary-clinton-correct-about-ta/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "In shot at Donald Trump, Hillary Clinton is correct about tariffs' role in Great Depression", 
+        "statement": "<p>&quot;A trade war is something very different (than curbing new trade agreements). We went down that road in the 1930s. It made the Great Depression longer and more painful.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "true", 
+            "ruling": "True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+        }, 
+        "ruling_link_text": "Even Ferris Bueller would agree this is right", 
+        "ruling_date": "2016-06-06 17:54:47", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "economy", 
+                "subject": "Economy"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "history", 
+                "subject": "History"
+            }, 
+            {
+                "subject_slug": "trade", 
+                "subject": "Trade"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/06/hillary-clinton/hillary-clinton-says-donald-trump-argued-us-should/", 
+        "target": [], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton says Donald Trump argued U.S. should 'encourage' Japan to get nuclear weapons", 
+        "statement": "<p>Says Donald Trump said the U.S. should &quot;encourage&quot; Japan to get nuclear weapons.</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Floated, but stopped just short of encouraging", 
+        "ruling_date": "2016-06-06 13:49:27", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "nuclear", 
+                "subject": "Nuclear"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/hillary-clinton-attacks-donald-trump-over-his-war-/", 
+        "target": [], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a national security speech in California", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton attacks Donald Trump over his 'war hero' dig at John McCain", 
+        "statement": "<p>Says Donald Trump &quot;has the gall to say that prisoners of war like John McCain aren&rsquo;t heroes.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "half-true", 
+            "ruling": "Half-True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+        }, 
+        "ruling_link_text": "Trump took it back", 
+        "ruling_date": "2016-06-03 15:50:30", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "military", 
+                "subject": "Military"
+            }, 
+            {
+                "subject_slug": "veterans", 
+                "subject": "Veterans"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/hillary-clinton-says-donald-trump-cited-miss-unive/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech ", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton says Donald Trump cited Miss Universe pageant as evidence of foreign policy chops", 
+        "statement": "<p>Says Donald Trump &quot;says he has foreign policy experience because he ran the Miss Universe pageant in Russia.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "half-true", 
+            "ruling": "Half-True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+        }, 
+        "ruling_link_text": "At least as evidence of experience with Russia", 
+        "ruling_date": "2016-06-03 14:20:56", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/yes-donald-trump-did-call-climate-change-chinese-h/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-02", 
+        "statement_context": "a foreign policy speech ", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Yes, Donald Trump did call climate change a Chinese hoax", 
+        "statement": "<p>Says &quot;Donald Trump says climate change is a hoax invented by the Chinese.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Later called it a 'joke,' but has used 'hoax' often", 
+        "ruling_date": "2016-06-03 12:00:53", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "climate-change", 
+                "subject": "Climate Change"
+            }, 
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/02/donald-trump/donald-trump-wrong-accusing-hillary-clinton-lying-/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-06-01", 
+        "statement_context": "a rally in Sacramento, Calif.", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump wrong in accusing Hillary Clinton of lying about his views on a nuclear-armed Japan", 
+        "statement": "<p>Says Hillary Clinton has spoken &quot;such lies about my foreign policy. They said I want Japan to &hellip; get nuclear weapons. Give me a break.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "barely-true", 
+            "ruling": "Mostly False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+        }, 
+        "ruling_link_text": "Nearly there on nukes", 
+        "ruling_date": "2016-06-02 14:39:21", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "foreign-policy", 
+                "subject": "Foreign Policy"
+            }, 
+            {
+                "subject_slug": "nuclear", 
+                "subject": "Nuclear"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/31/hillary-clinton/fact-checking-hillary-clintons-claim-her-email-pra/", 
+        "target": [], 
+        "statement_date": "2016-05-26", 
+        "statement_context": "an interview on ABC", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Fact-checking Hillary Clinton's claim that her email practices were 'allowed'", 
+        "statement": "<p>&quot;It was allowed,&quot; referring to her email practices.</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "false", 
+            "ruling": "False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+        }, 
+        "ruling_link_text": "A talking point, shattered", 
+        "ruling_date": "2016-05-31 16:11:13", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "homeland-security", 
+                "subject": "Homeland Security"
+            }, 
+            {
+                "subject_slug": "technology", 
+                "subject": "Technology"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/29/bernie-s/bernie-sanders-says-only-he-supports-carbon-tax-an/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-05-29", 
+        "statement_context": "an interview on \"Meet the Press\"", 
+        "speaker": {
+            "party": {
+                "party": "Independent", 
+                "party_slug": "independent"
+            }, 
+            "first_name": "Bernie", 
+            "last_name": "Sanders", 
+            "name_slug": "bernie-s", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+        }, 
+        "ruling_headline": "Bernie Sanders says only he supports carbon tax and 'aggressive' approach to climate change", 
+        "statement": "<p>&quot;I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton&#39;s)&nbsp;position.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Clinton's position is no carbon copy of Sanders'", 
+        "ruling_date": "2016-05-29 17:21:44", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "cap-and-trade", 
+                "subject": "Cap and Trade"
+            }, 
+            {
+                "subject_slug": "climate-change", 
+                "subject": "Climate Change"
+            }, 
+            {
+                "subject_slug": "energy", 
+                "subject": "Energy"
+            }, 
+            {
+                "subject_slug": "environment", 
+                "subject": "Environment"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/29/bernie-s/bernie-sanders-says-he-polls-better-against-donald/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }, 
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-05-29", 
+        "statement_context": "an interview on NBC's 'Meet the Press'", 
+        "speaker": {
+            "party": {
+                "party": "Independent", 
+                "party_slug": "independent"
+            }, 
+            "first_name": "Bernie", 
+            "last_name": "Sanders", 
+            "name_slug": "bernie-s", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+        }, 
+        "ruling_headline": "Bernie Sanders says he polls better against Donald Trump than Hillary Clinton does", 
+        "statement": "<p>&quot;Right now, in every major poll, national poll and statewide poll done in the last month, six weeks, we are defeating Trump, often by big numbers&nbsp;and always at a larger margin than Secretary Clinton is.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "Parsing the polls", 
+        "ruling_date": "2016-05-29 17:18:27", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "elections", 
+                "subject": "Elections"
+            }, 
+            {
+                "subject_slug": "polls", 
+                "subject": "Polls and Public Opinion"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/27/donald-trump/donald-trump-says-clinton-foundation-pays-top-wome/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Democrat", 
+                    "party_slug": "democrat"
+                }, 
+                "first_name": "Hillary", 
+                "last_name": "Clinton", 
+                "name_slug": "hillary-clinton", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+            }
+        ], 
+        "statement_date": "2016-05-24", 
+        "statement_context": "an Instagram post", 
+        "speaker": {
+            "party": {
+                "party": "Republican", 
+                "party_slug": "republican"
+            }, 
+            "first_name": "Donald", 
+            "last_name": "Trump", 
+            "name_slug": "donald-trump", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+        }, 
+        "ruling_headline": "Donald Trump says Clinton Foundation pays top women less than top men", 
+        "statement": "<p>&quot;Hypocrisy at the Clinton Foundation: Top male staff made on average $218,029 while top female staff made $153,014 from 2010-2014.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "half-true", 
+            "ruling": "Half-True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+        }, 
+        "ruling_link_text": "A crude, limited analysis that misses the point", 
+        "ruling_date": "2016-05-27 16:38:03", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "women", 
+                "subject": "Women"
+            }, 
+            {
+                "subject_slug": "workers", 
+                "subject": "Workers"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/26/hillary-clinton/hillary-clinton-faults-donald-trump-hoping-real-es/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-05-24", 
+        "statement_context": "an advertisement", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton faults Donald Trump for hoping for real estate crash that led to the Great Recession", 
+        "statement": "<p>&quot;In 2006, Donald Trump was hoping for a real estate crash.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "mostly-true", 
+            "ruling": "Mostly True", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+        }, 
+        "ruling_link_text": "But he didn't think the bubble would burst", 
+        "ruling_date": "2016-05-26 14:57:48", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "bankruptcy", 
+                "subject": "Bankruptcy"
+            }, 
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "debt", 
+                "subject": "Debt"
+            }, 
+            {
+                "subject_slug": "economy", 
+                "subject": "Economy"
+            }, 
+            {
+                "subject_slug": "history", 
+                "subject": "History"
+            }, 
+            {
+                "subject_slug": "housing", 
+                "subject": "Housing"
+            }, 
+            {
+                "subject_slug": "income", 
+                "subject": "Income"
+            }, 
+            {
+                "subject_slug": "jobs", 
+                "subject": "Jobs"
+            }, 
+            {
+                "subject_slug": "stimulus", 
+                "subject": "Stimulus"
+            }, 
+            {
+                "subject_slug": "wealth", 
+                "subject": "Wealth"
+            }
+        ]
+    }, 
+    {
+        "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/24/hillary-clinton/hillary-clinton-claim-about-donald-trump-paying-no/", 
+        "target": [
+            {
+                "party": {
+                    "party": "Republican", 
+                    "party_slug": "republican"
+                }, 
+                "first_name": "Donald", 
+                "last_name": "Trump", 
+                "name_slug": "donald-trump", 
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+            }
+        ], 
+        "statement_date": "2016-05-22", 
+        "statement_context": "an interview on NBC's \"Meet the Press\"", 
+        "speaker": {
+            "party": {
+                "party": "Democrat", 
+                "party_slug": "democrat"
+            }, 
+            "first_name": "Hillary", 
+            "last_name": "Clinton", 
+            "name_slug": "hillary-clinton", 
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+        }, 
+        "ruling_headline": "Hillary Clinton claim about Donald Trump paying no federal taxes ignores the years when he did", 
+        "statement": "<p>&quot;The only two (Donald Trump tax returns) we have show that he hasn&#39;t paid a penny in taxes.&quot;</p>\r\n", 
+        "ruling": {
+            "ruling_slug": "barely-true", 
+            "ruling": "Mostly False", 
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+        }, 
+        "ruling_link_text": "We have 5 years of records; Trump paid taxes in 3", 
+        "ruling_date": "2016-05-24 13:00:00", 
+        "statement_type": {
+            "statement_type": "Claim"
+        }, 
+        "subject": [
+            {
+                "subject_slug": "bankruptcy", 
+                "subject": "Bankruptcy"
+            }, 
+            {
+                "subject_slug": "candidates-biography", 
+                "subject": "Candidate Biography"
+            }, 
+            {
+                "subject_slug": "history", 
+                "subject": "History"
+            }, 
+            {
+                "subject_slug": "income", 
+                "subject": "Income"
+            }, 
+            {
+                "subject_slug": "campaign-advertising", 
+                "subject": "Negative Campaigning"
+            }, 
+            {
+                "subject_slug": "taxes", 
+                "subject": "Taxes"
+            }, 
+            {
+                "subject_slug": "wealth", 
+                "subject": "Wealth"
+            }
+        ]
+    }
+]
