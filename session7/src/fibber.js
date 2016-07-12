@@ -175,7 +175,7 @@ fibber.processGetSavedContent = function(){
 	fibber.trumpData = data.trumpData;
 	fibber.clintonData = data.clintonData;
 
-	fibber.log("content loaded from saved session. clinton["+fibber.clintonData.length+"] trump["+fibber.trumpData.length+"]");
+	//fibber.log("content loaded from saved session. clinton["+fibber.clintonData.length+"] trump["+fibber.trumpData.length+"]");
 };
 
 fibber.processClearSavedContent = function(){

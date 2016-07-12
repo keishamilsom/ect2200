@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--HTML5 doctype-->
+<html>
+
+<head>
+
+    <title>Fibber</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" type="text/css" href="build/icons.css" />
+
+    <link rel="stylesheet" type="text/css" href="build/af.ui.css" />
+
+     <script type="text/javascript" charset="utf-8" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://rawgit.com/ftlabs/fastclick/master/lib/fastclick.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.shim.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.ui.js"></script>
+
+    <script type="text/javascript" src="src/fibber.js"></script>
+    <link rel="stylesheet" type="text/css" href="build/fibber.css" />
+
+    <script src="src/af.desktopBrowsers.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.actionsheet.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.animation.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.touchEvents.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.popup.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.drawer.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.toast.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.animateheader.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.splashscreen.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.swipereveal.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.lockscreen.js"></script>
+
+
+
+    <script>
+
+        $(document).ready(function(){
+            fibber.init();
+        });
+
+    </script>
+
+
+</head>
+
+<body >
+    <div id="splashscreen" class='ui-loader heavy'>
+        Fibber
+        <br>
+        <br>
+        <span class='ui-icon ui-icon-loading spin'></span>
+        <h1>Starting app</h1>
+
+    </div>
+    <div class="view" id="mainview">
+
+        <div class="pages">
+            <div class="panel" id="instructions">
+                fibber<br>
+                how to play<br>
+                1. read statement<br>
+                2. decide if it’s a truth or a fib<br>
+                3. first person naked loses. <br>
+
+                <a href="#viewstatement" id="startbtn" class="button">START</a>
+
+            </div>
+            <div class="panel" id="viewstatement">
+
+            <
+
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
