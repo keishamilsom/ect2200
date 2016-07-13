@@ -17,7 +17,9 @@ TODO:
 */
 
 var fibber = {
-	useLocalContent: true,
+	useLocalContent: false,
+	enableSavedContent: false,
+
 	clintonData: [],
 	trumpData: [],
 
@@ -55,13 +57,13 @@ fibber.initialize = function(){
 	fibber.viewCurrentScores();
 
 	//check for saved content
-	if(fibber.processIsExistsSavedContent()){
-		fibber.processGetSavedContent();
-		fibber.processRandomizeContent();
-		$.afui.launch();
+	if(fibber.enableSavedContent == true && fibber.processIsExistsSavedContent()){
+		
+			fibber.processGetSavedContent();
+			fibber.processRandomizeContent();
+			$.afui.launch();
 
 	}else{
-		//load remote content
 		fibber.loadRemoteContent(function(){
 			
 			//clean the content
@@ -154,7 +156,9 @@ fibber.processSaveContent = function(){
 		"trumpData": fibber.trumpData,
 		"clintonData": fibber.clintonData
 	}
+	fibber.log("SAVING: " + data);
 	localStorage.setItem("fibberData", JSON.stringify(data));
+	//localStorage.setItem("fibberData", data);
 };
 
 fibber.processIsExistsSavedContent = function(){
@@ -164,6 +168,7 @@ fibber.processIsExistsSavedContent = function(){
 		return false;
 	}else{
 		fibber.log("processExistsSavedContent: object found in saved content. return true.");
+		fibber.log(data);
 		return true;
 	}
 	fibber.log("processExistsSavedContent: Data not an object found in saved content. return false.");
@@ -171,7 +176,12 @@ fibber.processIsExistsSavedContent = function(){
 };
 
 fibber.processGetSavedContent = function(){
-	var data = localStorage.getItem("fibberData");
+	try{
+		var data = JSON.parse(localStorage.getItem("fibberData"));
+		//var data = localStorage.getItem("fibberData");
+	}catch(err){
+		fibber.log("ERROR: Could not parse the fibber data...");
+	}
 	fibber.trumpData = data.trumpData;
 	fibber.clintonData = data.clintonData;
 
@@ -189,8 +199,10 @@ fibber.processCleanContent = function(){
 
 	//loop through the arrays and remove certain elements
 	for(var i=0; i<fibber.clintonData.length; i++){
+		fibber.log("Cleaning content clinton index["+i+"]");
 		if(fibber.clintonData[i].speaker.last_name != "Clinton"){
 			fibber.clintonData.splice(i,1);
+			continue;
 		}
 		if(fibber.clintonData[i].ruling.ruling_slug == "mostly-true" || fibber.clintonData[i].ruling.ruling_slug == "true" || fibber.clintonData[i].ruling.ruling_slug == "half-true"){
 			fibber.clintonData[i].ruling.ruling_slug = "truth";
@@ -203,6 +215,7 @@ fibber.processCleanContent = function(){
 		}
 	}
 	for(var i=0; i<fibber.trumpData.length; i++){
+		fibber.log("Cleaning content trump index["+i+"]");
 		if(fibber.trumpData[i].speaker.last_name != "Trump"){
 			fibber.trumpData.splice(i,1);
 		}
