@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<!--HTML5 doctype-->
+<html>
+
+<head>
+
+    <title>Fibber</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" type="text/css" href="build/icons.css" />
+
+    <link rel="stylesheet" type="text/css" href="build/af.ui.css" />
+
+     <script type="text/javascript" charset="utf-8" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://rawgit.com/ftlabs/fastclick/master/lib/fastclick.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.shim.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.ui.js"></script>
+
+    <script type="text/javascript" src="src/fibber.js"></script>
+    <link rel="stylesheet" type="text/css" href="build/fibber.css" />
+
+    <script src="src/af.desktopBrowsers.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.actionsheet.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.animation.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.touchEvents.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.popup.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.drawer.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.toast.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.animateheader.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.splashscreen.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.swipereveal.js"></script>
+    <script type="text/javascript" charset="utf-8" src="src/af.lockscreen.js"></script>
+
+
+
+    <script>
+
+        $(document).ready(function(){
+            fibber.initialize();
+
+
+        });
+
+    </script>
+
+
+</head>
+
+<body >
+    <div id="splashscreen" class='ui-loader heavy'>
+        fibber
+        <br>
+        <span class='ui-icon ui-icon-loading spin'></span>
+        <h1>loading...</h1>
+    </div>
+
+    <div class="view" id="mainview">
+
+        <div class="pages">
+
+
+            <div class="panel" id="instructions">
+                <div class="card">
+                    <div class="gametitle-splash">fibber</div>
+                    <div class="gamedesc-splash">a game about political deception and stripping</div>
+                    <br>
+                    <b>how to play</b>
+                    <p>1. read statement<br>
+                    2. decide if it’s a truth or a fib<br>
+                    3. first person naked loses</p>
+                    <a href="#viewstatement" class="button">start</a>
+                </div>
+            </div>
+            
+
+            <div class="panel" id="viewstatement">
+                <div id="gameheader">
+                    <span id="gametitle">fibber</span>
+                </div>
+                <div id="clinton" class="col-char">
+                    <img class="char-draw" src="build/img/clinton_sm.png" />
+                    <div class="char-name">hillary clinton</div>
+                    <div id="counter-clinton" class="lives-count-box">5</div>
+                    <div id="clinton-action-btns">
+                        <a href="#" class="button game-btn truth-btn">TRUTH</a><br>
+                        <a href="#" class="button game-btn fib-btn">FIB</a>
+                    </div>
+                </div>
+
+                <div id="statement" class="col-statement">
+                    <div id="statement-text">--</div>
+                    <div id="statement-context">--</div>
+                </div>
+
+                <div id="trump" class="col-char">
+                    <img class="char-draw" src="build/img/trump_sm.png" />
+                    <div class="char-name">donald trump</div>
+                    <div id="counter-trump" class="lives-count-box">5</div>
+                    <div id="trump-action-btns">
+                        <a href="#" class="button game-btn truth-btn">TRUTH</a><br>
+                        <a href="#" class="button game-btn fib-btn">FIB</a>
+                    </div>
+                </div>
+
+                <div id="counter-player" class="lives-count-box">5</div>
+
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

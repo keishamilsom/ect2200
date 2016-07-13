@@ -19,6 +19,10 @@
 		},
 		{
 			"follow_symlinks": true,
+			"path": "/web/ect2200/session5"
+		},
+		{
+			"follow_symlinks": true,
 			"path": "."
 		}
 	]
